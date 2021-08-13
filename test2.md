@@ -5,7 +5,7 @@ TODO: Write a project description
 ## Installation
 
 TODO: Describe the installation process
-[test link](./test1.md#license)
+[test link](./test.md#license)
 
 ## Usage
 
