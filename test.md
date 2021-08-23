@@ -2,6 +2,8 @@
 
 TODO: Write a project description
 
+![image](./osi_pi_deploy_blocks.svg)
+
 ## Installation
 
 TODO: Describe the installation process
